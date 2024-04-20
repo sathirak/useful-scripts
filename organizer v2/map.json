@@ -1,0 +1,50 @@
+{
+	"IT1010 [Program]": {
+		"keywords": ["it1010", "ip", "introduction to programming", "it 1010"],
+		"extensions": [".doc", ".docx", ".pdf", ".pptx"],
+		"subfolders": {
+			"Slides": {
+				"extensions": [".pptx"]
+			},
+			"Other": {
+				"extensions": [".doc", ".docx", ".pdf"]
+			}
+		}
+	},
+    "IT1020 [Systems]": {
+		"keywords": ["it1020", "ics", "introduction to computer systems", "it 1020"],
+		"extensions": [".doc", ".docx", ".pdf", ".pptx"],
+		"subfolders": {
+			"Slides": {
+				"extensions": [".pptx"]
+			},
+			"Other": {
+				"extensions": [".doc", ".docx", ".pdf"]
+			}
+		}
+	},
+    "IT1030 [Mathematics]": {
+		"keywords": ["it1030", "it 1030", "mc", "mathematics for computing"],
+		"extensions": [".doc", ".docx", ".pdf", ".pptx"],
+		"subfolders": {
+			"Slides": {
+				"extensions": [".pptx"]
+			},
+			"Other": {
+				"extensions": [".doc", ".docx", ".pdf"]
+			}
+		}
+	},
+    "IT1040 [English]": {
+		"keywords": ["it1040", "it 1040", "cs", "communication skills"],
+		"extensions": [".doc", ".docx", ".pdf", ".pptx"],
+		"subfolders": {
+			"Slides": {
+				"extensions": [".pptx"]
+			},
+			"Other": {
+				"extensions": [".doc", ".docx", ".pdf"]
+			}
+		}
+	}
+}
